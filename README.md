@@ -1,4 +1,5 @@
 # Patika.dev JavaScript Odev 1 
 
-# Icerik
+## Icerik
+Temel seviye JavaSciprt HTML Css kullanımı. 
 JavaScript Date fonksiyonunun kullanımı.
